@@ -2,7 +2,8 @@
 夸克网盘
 # 2025夸克网盘新用户福利全攻略
 
-![活动主视觉](https://example.com/banner.png) <!-- 替换实际图片链接 -->
+![image](https://github.com/user-attachments/assets/45343295-daa4-4fa8-82b2-47d204770eb8)
+
 
 > 一站式获取1TB基础空间+20TB扩容+15天SVIP特权，助力高效云存储
 
