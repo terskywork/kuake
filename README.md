@@ -17,9 +17,9 @@
 
 获取专属链接
 
-![1TB容量领取链接](https://pan.quark.cn/s/27d1620a691c#/list/share)
-![1TB容量领取链接](https://pan.quark.cn/s/27d1620a691c#/list/share)
-![1TB容量领取链接](https://pan.quark.cn/s/27d1620a691c#/list/share)
+![1TB容量领取链接](https://pan.quark.cn/s/27d1620a691c)
+![1TB容量领取链接](https://pan.quark.cn/s/27d1620a691c)
+![1TB容量领取链接](https://pan.quark.cn/s/27d1620a691c)
 
 
 打开手机浏览器，通过私信获取活动专属链接。电脑端无法参与，必须使用手机操作。
