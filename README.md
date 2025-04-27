@@ -36,17 +36,17 @@
 
 
 ## 三、重要注意事项
-24小时有效期：需在注册后24小时内完成所有操作，否则奖励可能失效。
+- 24小时有效期：需在注册后24小时内完成所有操作，否则奖励可能失效。
 
-验证提示：转存时若提示“新用户保存成功”，说明操作符合领取条件。
+- 验证提示：转存时若提示“新用户保存成功”，说明操作符合领取条件。
 
-常见问题排查：
+***常见问题排查：***
 
-是否使用了新设备和新手机号？
+- 是否使用了新设备和新手机号？
 
-是否通过短信验证注册？
+- 是否通过短信验证注册？
 
-是否超过了24小时的有效期？
+- 是否超过了24小时的有效期？
 
 ## 四、常见问题解答
 Q：已有账号可以领取吗？
@@ -73,7 +73,7 @@ SVIP特权
 新用户注册后可享受15天SVIP特权，体验高速下载和更多高级功能。
 
  夸克网盘20T领取链接 夸克网盘20T领取方法!  夸克网盘20T领取方法!   夸克网盘20T领取方法!
+ [橘子云官网](https://clashsub.net/juzicloud) 
 ![image](https://github.com/user-attachments/assets/a3c2725d-6346-45b3-83ae-641a694ff9eb)
-
-![20TB扩容路径](https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331)
-! https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331
+[20TB扩容路径](https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331)
+https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331
