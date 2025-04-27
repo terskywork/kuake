@@ -73,8 +73,8 @@ SVIP特权
 新用户注册后可享受15天SVIP特权，体验高速下载和更多高级功能。
 
 ## 夸克网盘20T领取链接 夸克网盘20T领取方法!  夸克网盘20T领取方法!   夸克网盘20T领取方法!
-![image](https://github.com/user-attachments/assets/a3c2725d-6346-45b3-83ae-641a694ff9eb)
-[20TB扩容路径](https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331)
-[20TB扩容路径](https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331)
-[20TB扩容路径](https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331)
+
+## [20TB扩容路径](https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331)
+## [20TB扩容路径](https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331)
+## [20TB扩容路径](https://blog.csdn.net/liuguizhong/article/details/145992748?spm=1011.2415.3001.5331)
 
