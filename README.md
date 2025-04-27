@@ -1,6 +1,4 @@
-# kuake
-夸克网盘
-# 2025夸克网盘新用户福利全攻略：1TB免费空间+20TB扩容+SVIP特权领取方法!
+### 2025夸克网盘新用户福利全攻略：1TB免费空间+20TB扩容+SVIP特权领取方法!
 
 ![image](https://github.com/user-attachments/assets/45343295-daa4-4fa8-82b2-47d204770eb8)
 
